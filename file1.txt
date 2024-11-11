@@ -1,1 +1,2 @@
 My first file created on Bash. I am so excited!
+My address: ~/PycharmProjects/bash-trial
